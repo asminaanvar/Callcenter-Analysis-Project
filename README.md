@@ -18,3 +18,9 @@ This interactive Excel dashboard provides insights into call trends, representat
 * Top reps: Identified by customer feedback & issue resolution.
 * First Call Resolution (FCR): Higher FCR leads to better efficiency.
 * Shorter wait times = happier customers.
+
+📊 Data-Driven Decisions
+✔️ Optimized scheduling for peak days.
+✔️ Better resource allocation.
+✔️ Higher customer satisfaction.
+✔️ Increased revenue & efficiency.
